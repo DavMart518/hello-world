@@ -1,2 +1,4 @@
 # hello-world
-first rep.
+
+Good morning ! 
+  I am enjoying a hot tea while completing this assignment.
